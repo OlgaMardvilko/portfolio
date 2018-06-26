@@ -187,7 +187,8 @@ main p, footer p {
   position: relative;
 }
 
-.slider1, .slider2, .slider3, .slider4, .slider5, .slider6, .slider7, .slider8 {
+.slider1, .slider2, .slider3, .slider4, .slider5,
+.slider6, .slider7, .slider8 {
   height: inherit;
   overflow: hidden;
   position: relative;
@@ -199,7 +200,8 @@ main p, footer p {
   border-radius: 5px;
 }
 
-.slides1, .slides2, .slides3, .slides4, .slides5, .slides6, .slides7, .slides8 {
+.slides1, .slides2, .slides3, .slides4, .slides5,
+.slides6, .slides7, .slides8 {
   height: inherit;
   opacity: 0;
   position: absolute;
